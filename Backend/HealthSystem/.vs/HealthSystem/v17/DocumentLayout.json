@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\data\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\data\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\models\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +51,8 @@
       "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|c:\\users\\areej\\documents\\elmbootcamp\\monthlyproject1\\monthly_project_1\\backend\\healthsystem\\healthsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE67D7E-9AF1-4516-A35D-D87BC0841403}|HealthSystem\\HealthSystem.csproj|solutionrelative:healthsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Program.cs",
-              "RelativeDocumentMoniker": "HealthSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Program.cs",
-              "RelativeToolTip": "HealthSystem\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HealthSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T02:49:36.308Z",
+              "WhenOpened": "2025-03-26T11:35:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "HealthSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:35:17.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HealthSystem\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:34:09.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WorkingHours.cs",
-              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\WorkingHours.cs",
-              "RelativeDocumentMoniker": "HealthSystem\\Models\\WorkingHours.cs",
-              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\WorkingHours.cs",
-              "RelativeToolTip": "HealthSystem\\Models\\WorkingHours.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthSystem\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T02:41:27.266Z",
+              "WhenOpened": "2025-03-26T11:33:45.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthSystem\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:30:44.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Data\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Data\\DataSeeding.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Data\\DataSeeding.cs",
+              "RelativeToolTip": "HealthSystem\\Data\\DataSeeding.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAiwDcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:22:16.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "HealthSystem\\Models\\User.cs",
               "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\User.cs",
               "RelativeToolTip": "HealthSystem\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T02:41:22.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "HealthSystem\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Patient.cs",
-              "RelativeToolTip": "HealthSystem\\Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T02:41:16.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "HealthSystem\\Models\\Doctor.cs",
               "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Doctor.cs",
               "RelativeToolTip": "HealthSystem\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T02:41:08.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "HealthSystem\\Models\\Appointment.cs",
               "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Appointment.cs",
               "RelativeToolTip": "HealthSystem\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T02:40:43.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "HealthSystem\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Data\\AppDbContext.cs",
               "RelativeToolTip": "HealthSystem\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T02:35:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkingHours.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\WorkingHours.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Models\\WorkingHours.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\WorkingHours.cs",
+              "RelativeToolTip": "HealthSystem\\Models\\WorkingHours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:41:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthSystem\\Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:41:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\areej\\Documents\\ElmBootcamp\\MonthlyProject1\\Monthly_Project_1\\Backend\\HealthSystem\\HealthSystem\\Program.cs",
+              "RelativeToolTip": "HealthSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:49:36.308Z",
               "EditorCaption": ""
             }
           ]
